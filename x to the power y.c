@@ -10,7 +10,7 @@ int main()
 
     double  p = pow(x,y);
 
-    printf(" Result is :%.2lf",p);
+    printf("Result is :%.2lf",p);
 
     return 0;
 
